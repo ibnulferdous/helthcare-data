@@ -1,0 +1,27 @@
+{
+    "name": "screening assessment",
+    "id": 2,
+    "duration": 45,
+    "description": "Speech and language impairments include a variety of conditions that interfere with communication. Many of these disabilities are relatively rare or subtle in appearance, and the individual’s lack of any visible abnormalities may further disguise speech and language impairments. Before describing these disorders in more detail, I will define “speech” and “language” as speech-language pathologists (specialists in the diagnosis and treatment of speech and language disorders) define these terms. Language is a socially shared, rule-governed code used for communication. Speechis the audible, oral output of language. Language is not limited to oral expression however—it occurs in written form (or through use of gestures and alternative methods of communication for those who are low verbal or nonverbal) and within the brain in one’s thoughts.",
+    "specialization": [
+        "Social communication difficulties",
+        "Autism spectrum disorders",
+        "Developmental language disorder",
+        "Language delay and disorder",
+        "Dysfluency (stammering)",
+        "Speech sound difficulties",
+        "Voice Disorders",
+        "Attention and listening difficulties",
+        "Word-finding difficulties",
+        "Memory"
+    ],
+    "therapist": {
+        "name": "Andrew Mead, BS",
+        "degree": "Licensed Speech-Language Pathologist",
+        "certification": "Board Certified Behavior Analyst",
+        "institute": "Beachwood  OH 44122",
+        "image": "https://i.postimg.cc/PJFkZpRX/doctor2.jpg"
+    },
+    "price": 150,
+    "image": "https://i.postimg.cc/3Nch7ybg/screening-assessment.jpg"
+}
