@@ -1,0 +1,27 @@
+{
+    "name": "observation visits",
+    "id": 3,
+    "duration": 60,
+    "description": "Speech production skills include articulation/phonology, voice and fluency. We may first perform an oral mechanism examination to look at the structure and functioning of the speech structures (e.g., lips, tongue, teeth, jaw, and palate). Assessment of articulation involves determine how a child articulates speech sounds relative to their age level. Your child may be mispronouncing one or more sounds that should be mastered by their age. Phonology involves identifying patterns in speech sound errors (e.g., a child may leave off final consonants). Maybe your child’s voice or fluency was the reason for referral. We will examine the parameters of your child’s voice (quality, loudness, pitch, resonance, and prosody) and how they use their voice. Fluency involves how fluid your child speaks. We will be able to determine if there is a stuttering or cluttering problem.",
+    "specialization": [
+        "Social communication difficulties",
+        "Language delay and disorder",
+        "Autism spectrum disorders",
+        "Developmental language disorder",
+        "Speech sound difficulties",
+        "Word-finding difficulties",
+        "Attention and listening difficulties",
+        "Dysfluency (stammering)",
+        "Voice Disorders",
+        "Memory"
+    ],
+    "therapist": {
+        "name": "Brad Hamilton Ph.D., CCC-SLP, BCBA-D",
+        "degree": "Licensed Speech-Language Pathologist",
+        "certification": "Board Certified Behavior Analyst",
+        "institute": "Beachwood  OH 44122",
+        "image": "https://i.postimg.cc/kXJ5rWmH/doctor3.jpg"
+    },
+    "price": 95,
+    "image": "https://i.postimg.cc/L5cHLYBm/observation-visits.jpg"
+}
