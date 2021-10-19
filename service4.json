@@ -1,0 +1,27 @@
+{
+    "name": "individual therapy session",
+    "id": 4,
+    "duration": 60,
+    "description": "Kid Talk a unique social skills program designed and developed by a group of certified speech-language pathologists with extensive experience in speech, language and social skills. It is a precision-focused program for children needing help with their speech and language communication skills in a group setting. Kid Talk is unique in that it is designed, taught and led exclusively by Speech-Language Pathologists. Your child is placed in a group of their peers that is individualized for their needs.Staff with special understanding of the communication/language skills needed for social communication, interaction & play. We have a strong focus on using language (verbal and nonverbal) functionally to interact, converse, problem solve and share feelings with friends. Strong emphasis is on child-driven learning. An important part of Kid Talk is the feedback, encouragement and support given by peer buddies. We teach children to teach each other and respond in positive ways to their peers.",
+    "specialization": [
+        "Autism spectrum disorders",
+        "Language delay and disorder",
+        "Social communication difficulties",
+        "Developmental language disorder",
+        "Attention and listening difficulties",
+        "Speech sound difficulties",
+        "Dysfluency (stammering)",
+        "Word-finding difficulties",
+        "Voice Disorders",
+        "Memory"
+    ],
+    "therapist": {
+        "name": "David Helmat Ph.D., CCC-SLP, BCBA-D",
+        "degree": "Licensed Speech-Language Pathologist",
+        "certification": "Board Certified Behavior Analyst",
+        "institute": "Beachwood  OH 44122",
+        "image": "https://i.postimg.cc/QCNXFfCr/doctor.jpg"
+    },
+    "price": 175,
+    "image": "https://i.postimg.cc/9QSvM5bj/individual-therapy-session.jpg"
+}
