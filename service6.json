@@ -1,0 +1,27 @@
+{
+    "name": "training sessions for parents",
+    "id": 6,
+    "duration": 60,
+    "description": "Kids speech-language evaluation involves targeting the condition(s) for which you were referred. Testing begins with a phone call to you to discuss why you were referred and the main problems. In the assessment, we will further explore your feelings and questions about the condition and get to know you better so we can understand how the communication deficit is impacting your life and what you would like to achieve. We also have you fill out a questionnaire prior to the assessment so we have a comprehensive picture of your history to help us know you better. Actual testing may involve use of pictures, objects, stories, reading, writing, drawing, copying, questions, conversation, and other means to assess your skills. Skills tested may range from articulation, voice and fluency to receptive and expressive language, memory, and social communication.",
+    "specialization": [
+        "Social communication difficulties",
+        "Language delay and disorder",
+        "Autism spectrum disorders",
+        "Developmental language disorder",
+        "Speech sound difficulties",
+        "Word-finding difficulties",
+        "Attention and listening difficulties",
+        "Dysfluency (stammering)",
+        "Voice Disorders",
+        "Memory"
+    ],
+    "therapist": {
+        "name": "Darrel Wilson Ph.D., CCC-SLP, BCBA-D",
+        "degree": "Licensed Speech-Language Pathologist",
+        "certification": "Board Certified Behavior Analyst",
+        "institute": "Beachwood  OH 44122",
+        "image": "https://i.postimg.cc/8ctT4kZ5/doctor6.jpg"
+    },
+    "price": 250,
+    "image": "https://i.postimg.cc/9FXPnLT3/training-sessions-for-parents.jpg"
+}

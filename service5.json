@@ -1,0 +1,27 @@
+{
+    "name": "tailored home/school program",
+    "id": 5,
+    "duration": 120,
+    "description": "Over one in ten school-aged children experience a hearing problem. Healthy hearing is important for a child’s speech and language development, communication, learning, and social development. If your child hasn’t begun speaking by age one or if you have worries about their speech and language skills, it is worth investigating. Early identification can be a huge help. Receiving treatment before they begin school can mean they don’t miss out on pre-reading skills. Acquiring English as a second language in early childhood can also complicate matters. This is especially true when you’re a parent trying to monitor your child’s development. Luckily, there are plenty of things that you can do at home to create opportunities for your child to initiate communication. Things like making silly, purposeful mistakes during routines with your child for them to identify. Avoid anticipating your child’s wants: give them the chance to articulate their desires. Give your child two choices for every decision, and clearly name the choices so they can reiterate it in their choice. Of course, the most important part of aiding your child’s development is praising them for their efforts. Positive reinforcement is, as ever, the best way to cement beneficial behavior as habit in a child’s mind.",
+    "specialization": [
+        "Social communication difficulties",
+        "Autism spectrum disorders",
+        "Developmental language disorder",
+        "Language delay and disorder",
+        "Dysfluency (stammering)",
+        "Speech sound difficulties",
+        "Voice Disorders",
+        "Attention and listening difficulties",
+        "Word-finding difficulties",
+        "Memory"
+    ],
+    "therapist": {
+        "name": "Kevin Powell, BS",
+        "degree": "Licensed Speech-Language Pathologist",
+        "certification": "Board Certified Behavior Analyst",
+        "institute": "Beachwood  OH 44122",
+        "image": "https://i.postimg.cc/PJFkZpRX/doctor2.jpg"
+    },
+    "price": 350,
+    "image": "https://i.postimg.cc/x8n8qFY9/tailored-home-school-program.jpg"
+}
